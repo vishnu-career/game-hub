@@ -1,7 +1,10 @@
 # 🎮 Game Hub
 
-**Game Hub** is a responsive game discovery platform where users can explore video games by genre, platform, and rating. Built with React, TypeScript, Vite, and Chakra UI. 
-The project emphasizes performance, accessibility, and a modular design system. Ideal for gamers and developers looking for a sleek, user-friendly interface to discover new games.
+**Game Hub** is a responsive game discovery platform where users can explore video games by genre, platform, and rating. Built with React, TypeScript, Vite, and Chakra UI, the project emphasizes performance, accessibility, and a modular design system. Ideal for gamers and developers looking for a sleek, user-friendly interface to discover new games.
+
+## 🌐 Live Demo
+
+Check out the live demo of the project here: [Game Hub Demo](https://game-hub-rose-ten.vercel.app/)
 
 ## 🚀 Features
 
